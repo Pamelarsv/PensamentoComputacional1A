@@ -1,12 +1,32 @@
-body{
-    background-color: blueviolet;
+body {
+
 }
-h1{
-font-size: 30px;
-text-align: center;
-color: rgb(16, 16, 17)
+
+#banner {
+    width:100%;
 }
-p {
-font-size: 30px;
-text-align: center;
-color:rgb(0, 68, 255)}
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+.titulo-principal {
+    padding-left: 20%;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+p{
+    text-align: center;
+}
+
+#missão {
+    font-size: 20px
+}
+
+em strong {
+    color: #FF0000;
+}
